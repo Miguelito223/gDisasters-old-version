@@ -1,0 +1,263 @@
+gDisasters Tiers 1-10
+
+
+
+*Indicates suggestions for disasters
+
+
+
+Tier 1
+
+Weather
+- Aurora Borealis
+
+- 
+
+Disasters
+
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 2
+
+Weather
+
+- Smog Pollution
+- Category 1 Hurricane
+- 
+- 
+
+Disasters
+
+- Gustnado*
+- 
+- 
+- 
+- 
+
+
+
+Tier 3
+
+Weather
+- Supercell*
+- Tropical Storm*
+- Category 2 Hurricane
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- (Natural) Acid Pool*
+- Sinkhole*
+- 
+- 
+- 
+
+
+
+Tier 4
+
+Weather
+
+- Category 3 Hurricane
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- Landslide
+- Magnitude 4 Earthquake
+- EF1 Tornado
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 5
+
+Weather
+
+- Category 4 Hurricane
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- EF2 Tornado
+- Pyroclastic Flow
+- Magnitude 5 Earthquake
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 6
+
+Weather
+
+- Category 5 Hurricane
+- Flood
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- Pandemic
+- EF3 Tornado
+- Volcanic Lightning
+- Volcano Lava Fountain
+- Magnitude 6 Earthquake
+- Fire Tornado
+- 
+- 
+- 
+- 
+
+
+
+Tier 7
+
+Weather
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- EF4 Tornado
+- Volcano Eruption
+- Magnitude 7 Earthquake
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 8
+
+Weather
+
+- Nuclear Winter
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- Tsunami
+- Firestorm
+- Magnitude 8 Earthquake
+- EF5 Tornado
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 9
+
+Weather
+
+- Ice Age
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- Mega Fire Tornado
+- Magnitude 9+ Earthquake
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+
+
+Tier 10
+
+Weather
+- Vacuum* (atmosphere is gone, no air)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+Disasters
+- Martian Tornado*
+- Mega Tsunami*
+- Black Hole*
+- Supervolcano*
+- Asteroid Impact
+- Solar Flare*
+- Alien Attack (a successful independence day)
+- Skynet/Robot Takeover
+- Red Giant Sun/Supernova*

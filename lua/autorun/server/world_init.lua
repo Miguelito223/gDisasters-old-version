@@ -95,7 +95,7 @@ hook.Add( "Initialize", "GdisastersSkyFix", function()
 
 if GetConVar("gdisasters_atmosphere"):GetInt() <= 0 then return end
 	
-if GetConVar("gdisasters_atmosphere"):GetInt() >= 1 then 
+if GetConVar("gdisasters_atmosphere"):GetInt() <= 1 then 
 
 
 	if #ents.FindByClass("env_skypaint")<1 then
@@ -120,7 +120,7 @@ hook.Add( "InitPostEntity", "gDisastersInitPostEvo", function()
 
 if GetConVar("gdisasters_atmosphere"):GetInt() <= 0 then return end
 	
-if GetConVar("gdisasters_atmosphere"):GetInt() >= 1 then 
+if GetConVar("gdisasters_atmosphere"):GetInt() <= 1 then 
 
 
 	local oldCleanUpMap = game.CleanUpMap
